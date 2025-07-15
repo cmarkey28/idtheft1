@@ -1,0 +1,5 @@
+/*
+
+  X-Frame-Options: ALLOWALL
+  Content-Security-Policy: frame-ancestors https://*.articulate.com https://rise.articulate.com https://360.articulate.com;
+
